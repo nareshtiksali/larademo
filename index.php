@@ -25,7 +25,7 @@
                 padding: 0;
                 width: 100%;
                 display: table;
-                font-weight: 100;
+                font-weight: 300;
                 font-family: 'Karla';
             }
 
